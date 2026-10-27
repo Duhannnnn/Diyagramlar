@@ -1,4 +1,4 @@
 ## UML Diyagramları
-- **Use Case Diagram:** ![Use Case](Use Case.png)
-- **Activity Diagram:** ![Activity](Activity.png)
-- **Class Diagram:** ![Class](Class.png)
+- **Use Case Diagram:** UseCase.png
+- **Activity Diagram:** Activity.png
+- **Class Diagram:** Class.png
